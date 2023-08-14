@@ -1,0 +1,10 @@
+1. With virtual env installed:
+	- python3 -m venv hackathon
+	- source hackathon/bin/activate
+
+2. pip install pandas plotly
+
+3. if packages not recognised using "import pandas" etc, do the following:
+		- Ctrl + Shift + P
+		- Type "Python: Select Intepreter"
+		- Select the one that has your virtual env in it
